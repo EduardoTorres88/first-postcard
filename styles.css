@@ -1,0 +1,41 @@
+.div-padre{
+    display: flex;
+    width: 45%;
+    height: 280px;
+    align-items: center;
+}
+
+.title {
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.first-p{
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.second-p{
+    margin-bottom: 30px;
+    text-align: left;
+}
+
+.container-right{
+    width: 100%;
+    margin-left: 10px
+}
+
+.inputs{
+    border-top: none; 
+    border-left: none;
+    border-right: none;
+    height: 30px;
+}
+
+.div-padre-bottom{
+    display: flex;
+    width: 45%;
+    justify-content: center;
+}
